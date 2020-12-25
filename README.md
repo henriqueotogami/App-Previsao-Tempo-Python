@@ -1,6 +1,6 @@
 # App de Previsão do Tempo - Python
 
-## Back-end do projeto do curso de Python 3 na Udemy.
+## Back-end do projeto do curso de Python 3 na Udemy - Junho/2020.
 
 ### Prof. Ivan Lourenço Gomes.
 
@@ -20,3 +20,12 @@
 [x] **AccuWeather - forecasts:** Para obter informações de previsão do clima para 5 dias;
 
 [x] **Mapbox - geocoding:** Para obter o valor da localização: Mediante a entrada do nome da cidade e Estado.
+
+## Certifique-se de instalar as dependências indicadas no arquivo **requirements.txt**
+<hr>
+<img width="auto" src="https://github.com/HenriqueMAP/App-Previsao-Tempo-Python/blob/master/Weather-App.png?raw=true">
+<br> 
+<img width="auto" src="https://github.com/HenriqueMAP/App-Previsao-Tempo-Python/blob/master/App-Weather.gif?raw=true">
+<br> 
+<hr>
+# Desenvolvido por Henrique Matheus Alves Pereira
