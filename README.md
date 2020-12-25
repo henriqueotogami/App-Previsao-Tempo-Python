@@ -28,4 +28,5 @@
 <img width="auto" src="https://github.com/HenriqueMAP/App-Previsao-Tempo-Python/blob/master/App-Weather.gif?raw=true">
 <br> 
 <hr>
+
 # Desenvolvido por Henrique Matheus Alves Pereira
