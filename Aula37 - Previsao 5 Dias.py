@@ -11,7 +11,7 @@ import json
 #
 from datetime import date
 
-accuweatherAPIKey = '3I2Ai2Zf5bJ9uT1Skx3WM0sAKwvpLLxl'
+accuweatherAPIKey = 'INSERT YOUR KEY HERE'
 dias_semana = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado']
 def pegarCoordenadas():
     r = requests.get('http://www.geoplugin.net/json.gp')

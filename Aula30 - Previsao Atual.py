@@ -9,7 +9,7 @@ import json
 #Módulo para imprimir o dicionário
 import pprint
 
-accuweatherAPIKey = '3I2Ai2Zf5bJ9uT1Skx3WM0sAKwvpLLxl'
+accuweatherAPIKey = 'INSERT YOUR KEY HERE'
 r = requests.get('http://www.geoplugin.net/json.gp')
 #Verificação de localização, baseado na numeração de erro 200
 if (r.status_code != 200):

@@ -13,8 +13,9 @@ from datetime import date
 
 import urllib.parse
 
-accuweatherAPIKey = '3I2Ai2Zf5bJ9uT1Skx3WM0sAKwvpLLxl'
-mapboxToken = "pk.eyJ1IjoiaGVucmlxdWVtYXRoZXVzIiwiYSI6ImNrOTc4dTd1YzA4YmYzZG5vanAyZ2k5bTgifQ.CAuXnH7xGiqKgbANaPGFuA"
+accuweatherAPIKey = 'INSERT YOU KEY HERE'
+mapboxToken = "INSERT YOUR MAPBOX TOKEN HERE"
+
 dias_semana = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado']
 
 def pegarCoordenadas():
