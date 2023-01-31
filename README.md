@@ -23,9 +23,9 @@
 
 ## Certifique-se de instalar as dependências indicadas no arquivo **requirements.txt**
 <hr>
-<img width="auto" src="https://github.com/HenriqueMAP/App-Previsao-Tempo-Python/blob/master/Weather-App.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/App-Previsao-Tempo-Python/blob/master/Weather-App.png?raw=true">
 <br> 
-<img width="auto" src="https://github.com/HenriqueMAP/App-Previsao-Tempo-Python/blob/master/App-Weather.gif?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/App-Previsao-Tempo-Python/blob/master/App-Weather.gif?raw=true">
 <br> 
 <hr>
 
